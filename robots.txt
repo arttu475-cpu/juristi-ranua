@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arttu475-cpu.github.io/juristi-ranua/sitemap.xml
